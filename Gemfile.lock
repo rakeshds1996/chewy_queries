@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    chewy_queries (0.0.5)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  chewy_queries!
+
+BUNDLED WITH
+   2.1.4
